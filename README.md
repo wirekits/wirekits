@@ -32,13 +32,8 @@ Common scripts and checks for testing and hardening system security.
 
 ## Contact
 - Discord: `wirekits`
-- Telegram: [@landfee](https://t.me/landfee)
+- Telegram: [@miswire](https://t.me/miswire)
 - Email: dstrelayai@gmail.com
 
-Contact
-
-Discord: wirekits
-Telegram: @miswire
-Email: dstrelayai@gmail.com
 
  
